@@ -3,7 +3,7 @@ apply plugin: "eclipse"
 apply plugin: "idea"
 
 group = "com.mycompany.hadoopproject"
-version = "1.0"
+version = "1.0.0-SNAPSHOT"
 
 repositories {
     // Standard Maven 
